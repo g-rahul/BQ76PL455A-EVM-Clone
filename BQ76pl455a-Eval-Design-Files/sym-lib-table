@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name BQ76pl455a-rescue)(type Legacy)(uri ${KIPRJMOD}/BQ76pl455a-rescue.lib)(options "")(descr ""))
+)
